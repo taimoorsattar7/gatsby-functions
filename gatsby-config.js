@@ -2,7 +2,7 @@ const tailwindConfig = require("./tailwind.config.js")
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Tailwind Starter`,
+    title: `Gatsby Functions`,
   },
   plugins: [
     {
